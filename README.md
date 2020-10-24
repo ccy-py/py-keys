@@ -1,2 +1,2 @@
-# py-keys
-按键精灵
+#
+python按键键盘 pynput学习
